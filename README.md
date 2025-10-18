@@ -21,7 +21,8 @@ An Excel- based system with VBA macros for managing client investment portfolios
 - PDF reports and charts
 - Extendable for crypto data
 
-## Features
+## Tech Stack
+- Visual basic application (VBA)
 - API connections
 - pivot tables
 - vlookup,hlookup functions
