@@ -21,6 +21,10 @@ An Excel- based system with VBA macros for managing client investment portfolios
 - PDF reports and charts
 - Extendable for crypto data
 
+## Features
+- API connections
+- pivot tables
+- vlookup,hlookup functions
 
 
 ## Notes
